@@ -1,0 +1,9 @@
+version: 0.0
+os: linux
+files:
+  - source: index.html
+    destination: /var/www/html/app1
+  - source: index.html
+    destination: /var/www/html/app2
+  - source: index.html
+    destination: /var/www/html/appx/hoge.html
